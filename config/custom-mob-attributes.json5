@@ -1,0 +1,1032 @@
+{
+	// Whether babies should also be affected by the multipliers of their adult version
+	"adultsAlsoAffectBabies": true,
+	// All Mobs
+	"healthMultiplierForAll": 1.5,
+	"damageMultiplierForAll": 1.5,
+	"speedMultiplierForAll": 1.2,
+	"scaleMultiplierForAll": 1.0,
+	// All Baby Mobs
+	"healthMultiplierForBabyAll": 1.8,
+	"damageMultiplierForBabyAll": 1.8,
+	"speedMultiplierForBabyAll": 3.5,
+	"scaleMultiplierForBabyAll": 1.0,
+	// Allay
+	"healthMultiplierForAllay": 1.0,
+	"damageMultiplierForAllay": 1.0,
+	"speedMultiplierForAllay": 1.0,
+	"scaleMultiplierForAllay": 1.0,
+	// Armadillo
+	"healthMultiplierForArmadillo": 1.0,
+	"speedMultiplierForArmadillo": 1.0,
+	"scaleMultiplierForArmadillo": 1.0,
+	"babyArmadillo": {
+		"healthMultiplierForBabyArmadillo": 1.0,
+		"speedMultiplierForBabyArmadillo": 1.0,
+		"scaleMultiplierForBabyArmadillo": 1.0
+	},
+	// Axolotl
+	"healthMultiplierForAxolotl": 1.0,
+	"damageMultiplierForAxolotl": 1.0,
+	"speedMultiplierForAxolotl": 1.0,
+	"scaleMultiplierForAxolotl": 1.0,
+	"babyAxolotl": {
+		"healthMultiplierForBabyAxolotl": 1.0,
+		"damageMultiplierForBabyAxolotl": 1.0,
+		"speedMultiplierForBabyAxolotl": 1.0,
+		"scaleMultiplierForBabyAxolotl": 1.0
+	},
+	// Bat
+	"healthMultiplierForBat": 1.0,
+	"speedMultiplierForBat": 1.0,
+	"scaleMultiplierForBat": 1.0,
+	// Bee
+	"healthMultiplierForBee": 1.0,
+	"damageMultiplierForBee": 1.0,
+	"speedMultiplierForBee": 1.0,
+	"scaleMultiplierForBee": 1.0,
+	"babyBee": {
+		"healthMultiplierForBabyBee": 1.0,
+		"damageMultiplierForBabyBee": 1.0,
+		"speedMultiplierForBabyBee": 1.0,
+		"scaleMultiplierForBabyBee": 1.0
+	},
+	// Blaze
+	"healthMultiplierForBlaze": 2.0,
+	"damageMultiplierForBlaze": 1.0,
+	"speedMultiplierForBlaze": 2.0,
+	"scaleMultiplierForBlaze": 0.5,
+	// Bogged
+	"healthMultiplierForBogged": 2.5,
+	"damageMultiplierForBogged": 2.0,
+	"speedMultiplierForBogged": 1.8,
+	"scaleMultiplierForBogged": 1.0,
+	// Breeze
+	"healthMultiplierForBreeze": 2.0,
+	"damageMultiplierForBreeze": 1.0,
+	"speedMultiplierForBreeze": 2.5,
+	"scaleMultiplierForBreeze": 0.5,
+	// Camel
+	"healthMultiplierForCamel": 1.0,
+	"speedMultiplierForCamel": 1.0,
+	"scaleMultiplierForCamel": 1.0,
+	"babyCamel": {
+		"healthMultiplierForBabyCamel": 1.0,
+		"speedMultiplierForBabyCamel": 1.0,
+		"scaleMultiplierForBabyCamel": 1.0
+	},
+	// Cat
+	"healthMultiplierForCat": 1.0,
+	"damageMultiplierForCat": 1.0,
+	"speedMultiplierForCat": 1.0,
+	"scaleMultiplierForCat": 1.0,
+	"babyCat": {
+		"healthMultiplierForBabyCat": 1.0,
+		"damageMultiplierForBabyCat": 1.0,
+		"speedMultiplierForBabyCat": 1.0,
+		"scaleMultiplierForBabyCat": 1.0
+	},
+	// Cave Spider
+	"healthMultiplierForCaveSpider": 2.5,
+	"damageMultiplierForCaveSpider": 2.0,
+	"speedMultiplierForCaveSpider": 2.0,
+	"scaleMultiplierForCaveSpider": 0.5,
+	// Chicken
+	"healthMultiplierForChicken": 20.0,
+	"speedMultiplierForChicken": 1.0,
+	"scaleMultiplierForChicken": 1.0,
+	"babyChicken": {
+		"healthMultiplierForBabyChicken": 1.0,
+		"speedMultiplierForBabyChicken": 1.0,
+		"scaleMultiplierForBabyChicken": 1.0
+	},
+	// Cod
+	"healthMultiplierForCod": 25.0,
+	"speedMultiplierForCod": 1.0,
+	"scaleMultiplierForCod": 1.0,
+	// Cow
+	"healthMultiplierForCow": 15.0,
+	"speedMultiplierForCow": 1.0,
+	"scaleMultiplierForCow": 1.0,
+	"babyCow": {
+		"healthMultiplierForBabyCow": 1.0,
+		"speedMultiplierForBabyCow": 1.0,
+		"scaleMultiplierForBabyCow": 1.0
+	},
+	// Creaking
+	"healthMultiplierForCreaking": 1.0,
+	"damageMultiplierForCreaking": 1.0,
+	"speedMultiplierForCreaking": 5.5,
+	"scaleMultiplierForCreaking": 1.5,
+	// Creeper
+	"healthMultiplierForCreeper": 3.0,
+	"damageMultiplierForCreeper": 1.0,
+	"speedMultiplierForCreeper": 4.5,
+	"scaleMultiplierForCreeper": 0.3,
+	// Dolphin
+	"healthMultiplierForDolphin": 1.0,
+	"damageMultiplierForDolphin": 1.0,
+	"speedMultiplierForDolphin": 1.0,
+	"scaleMultiplierForDolphin": 1.0,
+	"babyDolphin": {
+		"healthMultiplierForBabyDolphin": 1.0,
+		"damageMultiplierForBabyDolphin": 1.0,
+		"speedMultiplierForBabyDolphin": 1.0,
+		"scaleMultiplierForBabyDolphin": 1.0
+	},
+	// Donkey
+	"healthMultiplierForDonkey": 1.0,
+	"speedMultiplierForDonkey": 1.0,
+	"scaleMultiplierForDonkey": 1.0,
+	"babyDonkey": {
+		"healthMultiplierForBabyDonkey": 1.0,
+		"speedMultiplierForBabyDonkey": 1.0,
+		"scaleMultiplierForBabyDonkey": 1.0
+	},
+	// Drowned
+	"healthMultiplierForDrowned": 1.0,
+	"damageMultiplierForDrowned": 2.0,
+	"speedMultiplierForDrowned": 2.0,
+	"scaleMultiplierForDrowned": 0.5,
+	"babyDrowned": {
+		"healthMultiplierForBabyDrowned": 1.0,
+		"damageMultiplierForBabyDrowned": 1.0,
+		"speedMultiplierForBabyDrowned": 3.0,
+		"scaleMultiplierForBabyDrowned": 1.0
+	},
+	// Elder Guardian
+	"healthMultiplierForElderGuardian": 5.0,
+	"damageMultiplierForElderGuardian": 2.0,
+	"speedMultiplierForElderGuardian": 2.0,
+	"scaleMultiplierForElderGuardian": 1.0,
+	// Ender Dragon
+	"healthMultiplierForEnderDragon": 5.0,
+	"damageMultiplierForEnderDragon": 1.0,
+	// Enderman
+	"healthMultiplierForEnderman": 5.0,
+	"damageMultiplierForEnderman": 0.5,
+	"speedMultiplierForEnderman": 1.0,
+	"scaleMultiplierForEnderman": 0.5,
+	// Endermite
+	"healthMultiplierForEndermite": 0.5,
+	"damageMultiplierForEndermite": 1.0,
+	"speedMultiplierForEndermite": 3.5,
+	"scaleMultiplierForEndermite": 1.0,
+	// Evoker
+	"healthMultiplierForEvoker": 3.0,
+	"damageMultiplierForEvoker": 1.0,
+	"speedMultiplierForEvoker": 3.0,
+	"scaleMultiplierForEvoker": 1.0,
+	// Fox
+	"healthMultiplierForFox": 1.0,
+	"damageMultiplierForFox": 1.0,
+	"speedMultiplierForFox": 1.0,
+	"scaleMultiplierForFox": 1.0,
+	"babyFox": {
+		"healthMultiplierForBabyFox": 1.0,
+		"damageMultiplierForBabyFox": 1.0,
+		"speedMultiplierForBabyFox": 1.0,
+		"scaleMultiplierForBabyFox": 1.0
+	},
+	// Frog
+	"healthMultiplierForFrog": 1.0,
+	"damageMultiplierForFrog": 1.0,
+	"speedMultiplierForFrog": 1.0,
+	"scaleMultiplierForFrog": 1.0,
+	// Ghast
+	"healthMultiplierForGhast": 5.0,
+	"damageMultiplierForGhast": 1.0,
+	"speedMultiplierForGhast": 2.0,
+	"scaleMultiplierForGhast": 1.0,
+	// Giant
+	"healthMultiplierForGiant": 1.0,
+	"damageMultiplierForGiant": 1.0,
+	"speedMultiplierForGiant": 1.0,
+	"scaleMultiplierForGiant": 1.0,
+	// Glow Squid
+	"healthMultiplierForGlowSquid": 1.0,
+	"speedMultiplierForGlowSquid": 1.0,
+	"scaleMultiplierForGlowSquid": 1.0,
+	"babyGlowSquid": {
+		"healthMultiplierForBabyGlowSquid": 1.0,
+		"speedMultiplierForBabyGlowSquid": 1.0,
+		"scaleMultiplierForBabyGlowSquid": 1.0
+	},
+	// Goat
+	"healthMultiplierForGoat": 1.0,
+	"damageMultiplierForGoat": 1.0,
+	"speedMultiplierForGoat": 1.0,
+	"scaleMultiplierForGoat": 1.0,
+	"babyGoat": {
+		"healthMultiplierForBabyGoat": 1.0,
+		"damageMultiplierForBabyGoat": 1.0,
+		"speedMultiplierForBabyGoat": 1.0,
+		"scaleMultiplierForBabyGoat": 1.0
+	},
+	// Guardian
+	"healthMultiplierForGuardian": 2.0,
+	"damageMultiplierForGuardian": 1.0,
+	"speedMultiplierForGuardian": 2.0,
+	"scaleMultiplierForGuardian": 1.0,
+	// Hoglin
+	"healthMultiplierForHoglin": 1.0,
+	"damageMultiplierForHoglin": 2.0,
+	"speedMultiplierForHoglin": 1.0,
+	"scaleMultiplierForHoglin": 1.0,
+	"babyHoglin": {
+		"healthMultiplierForBabyHoglin": 1.0,
+		"damageMultiplierForBabyHoglin": 1.0,
+		"speedMultiplierForBabyHoglin": 1.0,
+		"scaleMultiplierForBabyHoglin": 1.0
+	},
+	// Horse
+	"healthMultiplierForHorse": 1.0,
+	"speedMultiplierForHorse": 1.0,
+	"scaleMultiplierForHorse": 1.0,
+	"babyHorse": {
+		"healthMultiplierForBabyHorse": 1.0,
+		"speedMultiplierForBabyHorse": 1.0,
+		"scaleMultiplierForBabyHorse": 1.0
+	},
+	// Husk
+	"healthMultiplierForHusk": 2.0,
+	"damageMultiplierForHusk": 2.0,
+	"speedMultiplierForHusk": 2.0,
+	"scaleMultiplierForHusk": 0.5,
+	"babyHusk": {
+		"healthMultiplierForBabyHusk": 1.0,
+		"damageMultiplierForBabyHusk": 1.0,
+		"speedMultiplierForBabyHusk": 1.0,
+		"scaleMultiplierForBabyHusk": 1.0
+	},
+	// Illusioner
+	"healthMultiplierForIllusioner": 3.0,
+	"damageMultiplierForIllusioner": 1.0,
+	"speedMultiplierForIllusioner": 1.0,
+	"scaleMultiplierForIllusioner": 1.0,
+	// Iron Golem
+	"healthMultiplierForIronGolem": 2.0,
+	"damageMultiplierForIronGolem": 3.0,
+	"speedMultiplierForIronGolem": 2.5,
+	"scaleMultiplierForIronGolem": 2.0,
+	// Llama
+	"healthMultiplierForLlama": 1.0,
+	"damageMultiplierForLlama": 1.0,
+	"speedMultiplierForLlama": 1.0,
+	"scaleMultiplierForLlama": 1.0,
+	"babyLlama": {
+		"healthMultiplierForBabyLlama": 1.0,
+		"damageMultiplierForBabyLlama": 1.0,
+		"speedMultiplierForBabyLlama": 1.0,
+		"scaleMultiplierForBabyLlama": 1.0
+	},
+	// Magma Cube
+	"healthMultiplierForMagmaCube": 2.0,
+	"damageMultiplierForMagmaCube": 1.0,
+	"speedMultiplierForMagmaCube": 3.0,
+	"scaleMultiplierForMagmaCube": 2.0,
+	// Mooshroom
+	"healthMultiplierForMooshroom": 1.0,
+	"speedMultiplierForMooshroom": 1.0,
+	"scaleMultiplierForMooshroom": 1.0,
+	"babyMooshroom": {
+		"healthMultiplierForBabyMooshroom": 1.0,
+		"speedMultiplierForBabyMooshroom": 1.0,
+		"scaleMultiplierForBabyMooshroom": 1.0
+	},
+	// Mule
+	"healthMultiplierForMule": 1.0,
+	"speedMultiplierForMule": 1.0,
+	"scaleMultiplierForMule": 1.0,
+	"babyMule": {
+		"healthMultiplierForBabyMule": 1.0,
+		"speedMultiplierForBabyMule": 1.0,
+		"scaleMultiplierForBabyMule": 1.0
+	},
+	// Ocelot
+	"healthMultiplierForOcelot": 1.0,
+	"damageMultiplierForOcelot": 1.0,
+	"speedMultiplierForOcelot": 1.0,
+	"scaleMultiplierForOcelot": 1.0,
+	"babyOcelot": {
+		"healthMultiplierForBabyOcelot": 1.0,
+		"damageMultiplierForBabyOcelot": 1.0,
+		"speedMultiplierForBabyOcelot": 1.0,
+		"scaleMultiplierForBabyOcelot": 1.0
+	},
+	// Panda
+	"healthMultiplierForPanda": 1.0,
+	"damageMultiplierForPanda": 1.0,
+	"speedMultiplierForPanda": 1.0,
+	"scaleMultiplierForPanda": 1.0,
+	"babyPanda": {
+		"healthMultiplierForBabyPanda": 1.0,
+		"damageMultiplierForBabyPanda": 1.0,
+		"speedMultiplierForBabyPanda": 1.0,
+		"scaleMultiplierForBabyPanda": 1.0
+	},
+	// Parrot
+	"healthMultiplierForParrot": 1.0,
+	"damageMultiplierForParrot": 1.0,
+	"speedMultiplierForParrot": 1.0,
+	"scaleMultiplierForParrot": 1.0,
+	// Phantom
+	"healthMultiplierForPhantom": 3.0,
+	"damageMultiplierForPhantom": 1.0,
+	"scaleMultiplierForPhantom": 0.1,
+	// Pig
+	"healthMultiplierForPig": 15.0,
+	"speedMultiplierForPig": 2.0,
+	"scaleMultiplierForPig": 1.0,
+	"babyPig": {
+		"healthMultiplierForBabyPig": 1.0,
+		"speedMultiplierForBabyPig": 1.0,
+		"scaleMultiplierForBabyPig": 1.0
+	},
+	// Piglin
+	"healthMultiplierForPiglin": 3.2,
+	"damageMultiplierForPiglin": 2.1,
+	"speedMultiplierForPiglin": 2.0,
+	"scaleMultiplierForPiglin": 1.0,
+	"babyPiglin": {
+		"healthMultiplierForBabyPiglin": 1.0,
+		"damageMultiplierForBabyPiglin": 1.0,
+		"speedMultiplierForBabyPiglin": 1.0,
+		"scaleMultiplierForBabyPiglin": 1.0
+	},
+	// Piglin Brute
+	"healthMultiplierForPiglinBrute": 5.0,
+	"damageMultiplierForPiglinBrute": 3.0,
+	"speedMultiplierForPiglinBrute": 3.0,
+	"scaleMultiplierForPiglinBrute": 1.5,
+	// Pillager
+	"healthMultiplierForPillager": 2.0,
+	"damageMultiplierForPillager": 3.0,
+	"speedMultiplierForPillager": 1.0,
+	"scaleMultiplierForPillager": 1.0,
+	// Polar Bear
+	"healthMultiplierForPolarBear": 1.5,
+	"damageMultiplierForPolarBear": 1.0,
+	"speedMultiplierForPolarBear": 5.0,
+	"scaleMultiplierForPolarBear": 1.0,
+	"babyPolarBear": {
+		"healthMultiplierForBabyPolarBear": 1.0,
+		"speedMultiplierForBabyPolarBear": 1.0,
+		"scaleMultiplierForBabyPolarBear": 1.0
+	},
+	// Pufferfish
+	"healthMultiplierForPufferfish": 1.0,
+	"speedMultiplierForPufferfish": 1.0,
+	"scaleMultiplierForPufferfish": 1.0,
+	// Rabbit
+	"healthMultiplierForRabbit": 10.0,
+	"damageMultiplierForRabbit": 1.0,
+	"speedMultiplierForRabbit": 1.0,
+	"scaleMultiplierForRabbit": 1.0,
+	"babyRabbit": {
+		"healthMultiplierForBabyRabbit": 1.0,
+		"damageMultiplierForBabyRabbit": 1.0,
+		"speedMultiplierForBabyRabbit": 1.0,
+		"scaleMultiplierForBabyRabbit": 1.0
+	},
+	// Ravager
+	"healthMultiplierForRavager": 2.0,
+	"damageMultiplierForRavager": 3.0,
+	"speedMultiplierForRavager": 5.0,
+	"scaleMultiplierForRavager": 0.5,
+	// Salmon
+	"healthMultiplierForSalmon": 1.0,
+	"speedMultiplierForSalmon": 1.0,
+	"scaleMultiplierForSalmon": 1.0,
+	// Sheep
+	"healthMultiplierForSheep": 15.0,
+	"speedMultiplierForSheep": 2.0,
+	"scaleMultiplierForSheep": 1.0,
+	"babySheep": {
+		"healthMultiplierForBabySheep": 1.0,
+		"speedMultiplierForBabySheep": 1.0,
+		"scaleMultiplierForBabySheep": 1.0
+	},
+	// Shulker
+	"healthMultiplierForShulker": 15.0,
+	"damageMultiplierForShulker": 1.0,
+	"scaleMultiplierForShulker": 0.5,
+	// Silverfish
+	"healthMultiplierForSilverfish": 2.0,
+	"damageMultiplierForSilverfish": 1.0,
+	"speedMultiplierForSilverfish": 3.5,
+	"scaleMultiplierForSilverfish": 1.0,
+	// Skeleton
+	"healthMultiplierForSkeleton": 4.0,
+	"damageMultiplierForSkeleton": 2.0,
+	"speedMultiplierForSkeleton": 3.0,
+	"scaleMultiplierForSkeleton": 0.5,
+	// Skeleton Horse
+	"healthMultiplierForSkeletonHorse": 1.0,
+	"speedMultiplierForSkeletonHorse": 1.0,
+	"scaleMultiplierForSkeletonHorse": 1.0,
+	"babySkeletonHorse": {
+		"healthMultiplierForBabySkeletonHorse": 1.0,
+		"speedMultiplierForBabySkeletonHorse": 1.0,
+		"scaleMultiplierForBabySkeletonHorse": 1.0
+	},
+	// Slime
+	"healthMultiplierForSlime": 3.0,
+	"damageMultiplierForSlime": 1.0,
+	"speedMultiplierForSlime": 1.0,
+	"scaleMultiplierForSlime": 3.0,
+	// Sniffer
+	"healthMultiplierForSniffer": 1.0,
+	"speedMultiplierForSniffer": 1.0,
+	"scaleMultiplierForSniffer": 1.0,
+	"babySniffer": {
+		"healthMultiplierForBabySniffer": 1.0,
+		"speedMultiplierForBabySniffer": 1.0,
+		"scaleMultiplierForBabySniffer": 1.0
+	},
+	// Snow Golem
+	"healthMultiplierForSnowGolem": 0.3,
+	"damageMultiplierForSnowGolem": 1.0,
+	"speedMultiplierForSnowGolem": 1.0,
+	"scaleMultiplierForSnowGolem": 1.0,
+	// Spider
+	"healthMultiplierForSpider": 1.0,
+	"damageMultiplierForSpider": 2.0,
+	"speedMultiplierForSpider": 1.0,
+	"scaleMultiplierForSpider": 1.0,
+	// Squid
+	"healthMultiplierForSquid": 1.0,
+	"speedMultiplierForSquid": 1.0,
+	"scaleMultiplierForSquid": 1.0,
+	"babySquid": {
+		"healthMultiplierForBabySquid": 1.0,
+		"speedMultiplierForBabySquid": 1.0,
+		"scaleMultiplierForBabySquid": 1.0
+	},
+	// Stray
+	"healthMultiplierForStray": 5.0,
+	"damageMultiplierForStray": 2.0,
+	"speedMultiplierForStray": 3.0,
+	"scaleMultiplierForStray": 1.0,
+	// Strider
+	"healthMultiplierForStrider": 1.0,
+	"speedMultiplierForStrider": 1.0,
+	"scaleMultiplierForStrider": 1.0,
+	"babyStrider": {
+		"healthMultiplierForBabyStrider": 1.0,
+		"speedMultiplierForBabyStrider": 1.0,
+		"scaleMultiplierForBabyStrider": 1.0
+	},
+	// Tadpole
+	"healthMultiplierForTadpole": 1.0,
+	"speedMultiplierForTadpole": 1.0,
+	"scaleMultiplierForTadpole": 1.0,
+	// Trader Llama
+	"healthMultiplierForTraderLlama": 1.0,
+	"damageMultiplierForTraderLlama": 1.0,
+	"speedMultiplierForTraderLlama": 1.0,
+	"scaleMultiplierForTraderLlama": 1.0,
+	"babyTraderLlama": {
+		"healthMultiplierForBabyTraderLlama": 1.0,
+		"damageMultiplierForBabyTraderLlama": 1.0,
+		"speedMultiplierForBabyTraderLlama": 1.0,
+		"scaleMultiplierForBabyTraderLlama": 1.0
+	},
+	// Tropical Fish
+	"healthMultiplierForTropicalFish": 1.0,
+	"speedMultiplierForTropicalFish": 1.0,
+	"scaleMultiplierForTropicalFish": 1.0,
+	// Turtle
+	"healthMultiplierForTurtle": 1.0,
+	"speedMultiplierForTurtle": 1.0,
+	"scaleMultiplierForTurtle": 1.0,
+	"babyTurtle": {
+		"healthMultiplierForBabyTurtle": 1.0,
+		"speedMultiplierForBabyTurtle": 1.0,
+		"scaleMultiplierForBabyTurtle": 1.0
+	},
+	// Vex
+	"healthMultiplierForVex": 0.5,
+	"damageMultiplierForVex": 2.0,
+	"speedMultiplierForVex": 5.0,
+	"scaleMultiplierForVex": 1.0,
+	// Villager
+	"healthMultiplierForVillager": 0.001,
+	"speedMultiplierForVillager": 0.01,
+	"scaleMultiplierForVillager": 1.5,
+	"babyVillager": {
+		"healthMultiplierForBabyVillager": 0.001,
+		"speedMultiplierForBabyVillager": 0.01,
+		"scaleMultiplierForBabyVillager": 2.0
+	},
+	// Vindicator
+	"healthMultiplierForVindicator": 3.0,
+	"damageMultiplierForVindicator": 3.0,
+	"speedMultiplierForVindicator": 2.0,
+	"scaleMultiplierForVindicator": 1.0,
+	// Wandering Trader
+	"healthMultiplierForWanderingTrader": 1.0,
+	"speedMultiplierForWanderingTrader": 1.0,
+	"scaleMultiplierForWanderingTrader": 1.0,
+	// Warden
+	"healthMultiplierForWarden": 1.0,
+	"damageMultiplierForWarden": 1.0,
+	"speedMultiplierForWarden": 6.0,
+	"scaleMultiplierForWarden": 0.5,
+	// Witch
+	"healthMultiplierForWitch": 2.0,
+	"damageMultiplierForWitch": 1.0,
+	"speedMultiplierForWitch": 2.0,
+	"scaleMultiplierForWitch": 1.0,
+	// Wither
+	"healthMultiplierForWither": 10.0,
+	"damageMultiplierForWither": 1.0,
+	"speedMultiplierForWither": 1.0,
+	"scaleMultiplierForWither": 0.5,
+	// Wither Skeleton
+	"healthMultiplierForWitherSkeleton": 4.0,
+	"damageMultiplierForWitherSkeleton": 3.0,
+	"speedMultiplierForWitherSkeleton": 2.0,
+	"scaleMultiplierForWitherSkeleton": 0.8,
+	// Wolf
+	"healthMultiplierForWolf": 5.0,
+	"damageMultiplierForWolf": 1.0,
+	"speedMultiplierForWolf": 7.0,
+	"scaleMultiplierForWolf": 1.0,
+	"babyWolf": {
+		"healthMultiplierForBabyWolf": 1.0,
+		"damageMultiplierForBabyWolf": 1.0,
+		"speedMultiplierForBabyWolf": 1.0,
+		"scaleMultiplierForBabyWolf": 1.0
+	},
+	// Zoglin
+	"healthMultiplierForZoglin": 10.0,
+	"damageMultiplierForZoglin": 5.0,
+	"speedMultiplierForZoglin": 4.0,
+	"scaleMultiplierForZoglin": 1.0,
+	"babyZoglin": {
+		"healthMultiplierForBabyZoglin": 1.0,
+		"damageMultiplierForBabyZoglin": 1.0,
+		"speedMultiplierForBabyZoglin": 1.0,
+		"scaleMultiplierForBabyZoglin": 1.0
+	},
+	// Zombie
+	"healthMultiplierForZombie": 4.0,
+	"damageMultiplierForZombie": 2.0,
+	"speedMultiplierForZombie": 2.0,
+	"scaleMultiplierForZombie": 0.5,
+	"babyZombie": {
+		"healthMultiplierForBabyZombie": 1.0,
+		"damageMultiplierForBabyZombie": 1.0,
+		"speedMultiplierForBabyZombie": 1.0,
+		"scaleMultiplierForBabyZombie": 1.0
+	},
+	// Zombie Horse
+	"healthMultiplierForZombieHorse": 1.0,
+	"speedMultiplierForZombieHorse": 1.0,
+	"scaleMultiplierForZombieHorse": 1.0,
+	"babyZombieHorse": {
+		"healthMultiplierForBabyZombieHorse": 1.0,
+		"speedMultiplierForBabyZombieHorse": 1.0,
+		"scaleMultiplierForBabyZombieHorse": 1.0
+	},
+	// Zombie Villager
+	"healthMultiplierForZombieVillager": 4.0,
+	"damageMultiplierForZombieVillager": 2.0,
+	"speedMultiplierForZombieVillager": 3.5,
+	"scaleMultiplierForZombieVillager": 1.0,
+	"babyZombieVillager": {
+		"healthMultiplierForBabyZombieVillager": 1.0,
+		"damageMultiplierForBabyZombieVillager": 1.0,
+		"speedMultiplierForBabyZombieVillager": 1.0,
+		"scaleMultiplierForBabyZombieVillager": 1.0
+	},
+	// Zombified Piglin
+	"healthMultiplierForZombifiedPiglin": 4.0,
+	"damageMultiplierForZombifiedPiglin": 1.5,
+	"speedMultiplierForZombifiedPiglin": 2.0,
+	"scaleMultiplierForZombifiedPiglin": 1.0,
+	"babyZombifiedPiglin": {
+		"healthMultiplierForBabyZombifiedPiglin": 1.0,
+		"damageMultiplierForBabyZombifiedPiglin": 1.0,
+		"speedMultiplierForBabyZombifiedPiglin": 1.0,
+		"scaleMultiplierForBabyZombifiedPiglin": 1.0
+	},
+	// Modded Mobs
+	"betterEnd": {
+		// Cubozoa
+		"healthMultiplierForCubozoa": 1.0,
+		// Dragonfly
+		"healthMultiplierForDragonfly": 1.0,
+		"scaleMultiplierForDragonfly": 1.0,
+		// End Fish
+		"healthMultiplierForEndFish": 1.0,
+		// End Slime
+		"healthMultiplierForEndSlime": 1.0,
+		"damageMultiplierForEndSlime": 1.0,
+		"speedMultiplierForEndSlime": 1.0,
+		"scaleMultiplierForEndSlime": 1.0,
+		// Shadow Walker
+		"healthMultiplierForShadowWalker": 1.0,
+		"damageMultiplierForShadowWalker": 1.0,
+		"speedMultiplierForShadowWalker": 1.0,
+		"scaleMultiplierForShadowWalker": 1.0,
+		// Silk Moth
+		"healthMultiplierForSilkMoth": 1.0,
+		"scaleMultiplierForSilkMoth": 1.0
+	},
+	"betterNether": {
+		// Firefly
+		"healthMultiplierForFirefly": 1.0,
+		"damageMultiplierForFirefly": 1.0,
+		"scaleMultiplierForFirefly": 1.0,
+		// Flying Pig
+		"healthMultiplierForFlyingPig": 1.0,
+		"damageMultiplierForFlyingPig": 1.0,
+		"speedMultiplierForFlyingPig": 1.0,
+		"scaleMultiplierForFlyingPig": 1.0,
+		// Hydrogen Jellyfish
+		"healthMultiplierForHydrogenJellyfish": 1.0,
+		"damageMultiplierForHydrogenJellyfish": 1.0,
+		"scaleMultiplierForHydrogenJellyfish": 1.0,
+		// Jungle Skeleton
+		"healthMultiplierForJungleSkeleton": 1.0,
+		"damageMultiplierForJungleSkeleton": 1.0,
+		"speedMultiplierForJungleSkeleton": 1.0,
+		"scaleMultiplierForJungleSkeleton": 1.0,
+		// Naga
+		"healthMultiplierForNaga": 1.0,
+		"damageMultiplierForNaga": 1.0,
+		"speedMultiplierForNaga": 1.0,
+		"scaleMultiplierForNaga": 1.0,
+		// Skull
+		"healthMultiplierForSkull": 1.0,
+		"damageMultiplierForSkull": 1.0,
+		"scaleMultiplierForSkull": 1.0
+	},
+	"deeperAndDarker": {
+		// Angler Fish
+		"healthMultiplierForAnglerFish": 1.0,
+		"damageMultiplierForAnglerFish": 1.0,
+		"speedMultiplierForAnglerFish": 1.0,
+		"scaleMultiplierForAnglerFish": 1.0,
+		// Sculk Centipede
+		"healthMultiplierForSculkCentipede": 1.0,
+		"damageMultiplierForSculkCentipede": 1.0,
+		"speedMultiplierForSculkCentipede": 1.0,
+		"scaleMultiplierForSculkCentipede": 1.0,
+		// Sculk Leech
+		"healthMultiplierForSculkLeech": 1.0,
+		"damageMultiplierForSculkLeech": 1.0,
+		"speedMultiplierForSculkLeech": 1.0,
+		"scaleMultiplierForSculkLeech": 1.0,
+		// Sculk Snapper
+		"healthMultiplierForSculkSnapper": 1.0,
+		"damageMultiplierForSculkSnapper": 1.0,
+		"speedMultiplierForSculkSnapper": 1.0,
+		"scaleMultiplierForSculkSnapper": 1.0,
+		// Shattered
+		"healthMultiplierForShattered": 1.0,
+		"damageMultiplierForShattered": 1.0,
+		"speedMultiplierForShattered": 1.0,
+		"scaleMultiplierForShattered": 1.0,
+		// Shriek Worm
+		"healthMultiplierForShriekWorm": 1.0,
+		"damageMultiplierForShriekWorm": 1.0,
+		"scaleMultiplierForShriekWorm": 1.0,
+		// Sludge
+		"healthMultiplierForSludge": 1.0,
+		"damageMultiplierForSludge": 1.0,
+		"speedMultiplierForSludge": 1.0,
+		"scaleMultiplierForSludge": 1.0,
+		// Stalker
+		"healthMultiplierForStalker": 1.0,
+		"damageMultiplierForStalker": 1.0,
+		"speedMultiplierForStalker": 1.0,
+		"scaleMultiplierForStalker": 1.0
+	},
+	"friendsAndFoes": {
+		// Copper Golem
+		"healthMultiplierForCopperGolem": 1.0,
+		"damageMultiplierForCopperGolem": 1.0,
+		"speedMultiplierForCopperGolem": 1.0,
+		"scaleMultiplierForCopperGolem": 1.0,
+		// Crab
+		"healthMultiplierForCrab": 1.0,
+		"damageMultiplierForCrab": 1.0,
+		"speedMultiplierForCrab": 1.0,
+		"scaleMultiplierForCrab": 1.0,
+		// Glare
+		"healthMultiplierForGlare": 1.0,
+		"damageMultiplierForGlare": 1.0,
+		"speedMultiplierForGlare": 1.0,
+		"scaleMultiplierForGlare": 1.0,
+		// Iceologer
+		"healthMultiplierForIceologer": 1.0,
+		"damageMultiplierForIceologer": 1.0,
+		"speedMultiplierForIceologer": 1.0,
+		"scaleMultiplierForIceologer": 1.0,
+		// Mauler
+		"healthMultiplierForMauler": 1.0,
+		"damageMultiplierForMauler": 1.0,
+		"speedMultiplierForMauler": 1.0,
+		"scaleMultiplierForMauler": 1.0,
+		// Moobloom
+		"healthMultiplierForMoobloom": 1.0,
+		"damageMultiplierForMoobloom": 1.0,
+		"speedMultiplierForMoobloom": 1.0,
+		"scaleMultiplierForMoobloom": 1.0,
+		// Rascal
+		"healthMultiplierForRascal": 1.0,
+		"damageMultiplierForRascal": 1.0,
+		"speedMultiplierForRascal": 1.0,
+		"scaleMultiplierForRascal": 1.0,
+		// Tuff Golem
+		"healthMultiplierForTuffGolem": 1.0,
+		"damageMultiplierForTuffGolem": 1.0,
+		"speedMultiplierForTuffGolem": 1.0,
+		"scaleMultiplierForTuffGolem": 1.0,
+		// Wildfire
+		"healthMultiplierForWildfire": 1.0,
+		"damageMultiplierForWildfire": 1.0,
+		"speedMultiplierForWildfire": 1.0,
+		"scaleMultiplierForWildfire": 1.0
+	},
+	"illagerInvasion": {
+		// Alchemist
+		"healthMultiplierForAlchemist": 1.0,
+		"damageMultiplierForAlchemist": 1.0,
+		"speedMultiplierForAlchemist": 1.0,
+		"scaleMultiplierForAlchemist": 1.0,
+		// Archivist
+		"healthMultiplierForArchivist": 1.0,
+		"damageMultiplierForArchivist": 1.0,
+		"speedMultiplierForArchivist": 1.0,
+		"scaleMultiplierForArchivist": 1.0,
+		// Basher
+		"healthMultiplierForBasher": 1.0,
+		"damageMultiplierForBasher": 1.0,
+		"speedMultiplierForBasher": 1.0,
+		"scaleMultiplierForBasher": 1.0,
+		// Firecaller
+		"healthMultiplierForFirecaller": 1.0,
+		"damageMultiplierForFirecaller": 1.0,
+		"speedMultiplierForFirecaller": 1.0,
+		"scaleMultiplierForFirecaller": 1.0,
+		// Inquisitor
+		"healthMultiplierForInquisitor": 1.0,
+		"damageMultiplierForInquisitor": 1.0,
+		"speedMultiplierForInquisitor": 1.0,
+		"scaleMultiplierForInquisitor": 1.0,
+		// Invoker
+		"healthMultiplierForInvoker": 1.0,
+		"damageMultiplierForInvoker": 1.0,
+		"speedMultiplierForInvoker": 1.0,
+		"scaleMultiplierForInvoker": 1.0,
+		// Marauder
+		"healthMultiplierForMarauder": 1.0,
+		"damageMultiplierForMarauder": 1.0,
+		"speedMultiplierForMarauder": 1.0,
+		"scaleMultiplierForMarauder": 1.0,
+		// Necromancer
+		"healthMultiplierForNecromancer": 1.0,
+		"damageMultiplierForNecromancer": 1.0,
+		"speedMultiplierForNecromancer": 1.0,
+		"scaleMultiplierForNecromancer": 1.0,
+		// Provoker
+		"healthMultiplierForProvoker": 1.0,
+		"damageMultiplierForProvoker": 1.0,
+		"speedMultiplierForProvoker": 1.0,
+		"scaleMultiplierForProvoker": 1.0,
+		// Sorcerer
+		"healthMultiplierForSorcerer": 1.0,
+		"damageMultiplierForSorcerer": 1.0,
+		"speedMultiplierForSorcerer": 1.0,
+		"scaleMultiplierForSorcerer": 1.0,
+		// Surrendered
+		"healthMultiplierForSurrendered": 1.0,
+		"damageMultiplierForSurrendered": 1.0,
+		"scaleMultiplierForSurrendered": 1.0
+	},
+	"itTakesAPillageContinuation": {
+		// Archer
+		"healthMultiplierForArcher": 1.0,
+		"damageMultiplierForArcher": 1.0,
+		"speedMultiplierForArcher": 1.0,
+		"scaleMultiplierForArcher": 1.0,
+		// Clay Golem
+		"healthMultiplierForClayGolem": 1.0,
+		"damageMultiplierForClayGolem": 1.0,
+		"speedMultiplierForClayGolem": 1.0,
+		"scaleMultiplierForClayGolem": 1.0,
+		// Legioner
+		"healthMultiplierForLegioner": 1.0,
+		"damageMultiplierForLegioner": 1.0,
+		"speedMultiplierForLegioner": 1.0,
+		"scaleMultiplierForLegioner": 1.0,
+		// Skirmisher
+		"healthMultiplierForSkirmisher": 1.0,
+		"damageMultiplierForSkirmisher": 1.0,
+		"speedMultiplierForSkirmisher": 1.0,
+		"scaleMultiplierForSkirmisher": 1.0
+	},
+	"mobVariants": {
+		// Armored Spider
+		"healthMultiplierForArmoredSpider": 1.0,
+		"damageMultiplierForArmoredSpider": 1.0,
+		"speedMultiplierForArmoredSpider": 1.0,
+		"scaleMultiplierForArmoredSpider": 1.0,
+		// Bloated Corpse
+		"healthMultiplierForBloatedCorpse": 1.0,
+		"damageMultiplierForBloatedCorpse": 1.0,
+		"speedMultiplierForBloatedCorpse": 1.0,
+		"scaleMultiplierForBloatedCorpse": 1.0,
+		// Cave Creeper
+		"healthMultiplierForCaveCreeper": 1.0,
+		"damageMultiplierForCaveCreeper": 1.0,
+		"speedMultiplierForCaveCreeper": 1.0,
+		"scaleMultiplierForCaveCreeper": 1.0,
+		// Corsair
+		"healthMultiplierForCorsair": 1.0,
+		"damageMultiplierForCorsair": 1.0,
+		"speedMultiplierForCorsair": 1.0,
+		"scaleMultiplierForCorsair": 1.0,
+		// Executioner
+		"healthMultiplierForExecutioner": 1.0,
+		"damageMultiplierForExecutioner": 1.0,
+		"speedMultiplierForExecutioner": 1.0,
+		"scaleMultiplierForExecutioner": 1.0,
+		// Explorer
+		"healthMultiplierForExplorer": 1.0,
+		"damageMultiplierForExplorer": 1.0,
+		"speedMultiplierForExplorer": 1.0,
+		"scaleMultiplierForExplorer": 1.0,
+		// Forgotten
+		"healthMultiplierForForgotten": 1.0,
+		"damageMultiplierForForgotten": 1.0,
+		"speedMultiplierForForgotten": 1.0,
+		"scaleMultiplierForForgotten": 1.0,
+		// Frozen Zombie
+		"healthMultiplierForFrozenZombie": 1.0,
+		"damageMultiplierForFrozenZombie": 1.0,
+		"speedMultiplierForFrozenZombie": 1.0,
+		"scaleMultiplierForFrozenZombie": 1.0,
+		// Infected Piglin
+		"healthMultiplierForInfectedPiglin": 1.0,
+		"damageMultiplierForInfectedPiglin": 1.0,
+		"speedMultiplierForInfectedPiglin": 1.0,
+		"scaleMultiplierForInfectedPiglin": 1.0,
+		// Infected Piglin Brute
+		"healthMultiplierForInfectedPiglinBrute": 1.0,
+		"damageMultiplierForInfectedPiglinBrute": 1.0,
+		"speedMultiplierForInfectedPiglinBrute": 1.0,
+		"scaleMultiplierForInfectedPiglinBrute": 1.0,
+		// Lava Slime
+		"healthMultiplierForLavaSlime": 1.0,
+		"damageMultiplierForLavaSlime": 1.0,
+		"speedMultiplierForLavaSlime": 1.0,
+		"scaleMultiplierForLavaSlime": 1.0,
+		// Nightmare
+		"healthMultiplierForNightmare": 1.0,
+		"damageMultiplierForNightmare": 1.0,
+		"speedMultiplierForNightmare": 1.0,
+		"scaleMultiplierForNightmare": 1.0,
+		// Soul Stealer
+		"healthMultiplierForSoulStealer": 1.0,
+		"damageMultiplierForSoulStealer": 1.0,
+		"speedMultiplierForSoulStealer": 1.0,
+		"scaleMultiplierForSoulStealer": 1.0,
+		// Toxic Slime
+		"healthMultiplierForToxicSlime": 1.0,
+		"damageMultiplierForToxicSlime": 1.0,
+		"speedMultiplierForToxicSlime": 1.0,
+		"scaleMultiplierForToxicSlime": 1.0,
+		// Tropical Spider
+		"healthMultiplierForTropicalSpider": 1.0,
+		"damageMultiplierForTropicalSpider": 1.0,
+		"speedMultiplierForTropicalSpider": 1.0,
+		"scaleMultiplierForTropicalSpider": 1.0,
+		// Undead Warrior
+		"healthMultiplierForUndeadWarrior": 1.0,
+		"damageMultiplierForUndeadWarrior": 1.0,
+		"speedMultiplierForUndeadWarrior": 1.0,
+		"scaleMultiplierForUndeadWarrior": 1.0,
+		// Zombified Piglin Brute
+		"healthMultiplierForZombifiedPiglinBrute": 1.0,
+		"damageMultiplierForZombifiedPiglinBrute": 1.0,
+		"speedMultiplierForZombifiedPiglinBrute": 1.0,
+		"scaleMultiplierForZombifiedPiglinBrute": 1.0
+	},
+	"ribbits": {
+		// Ribbit
+		"healthMultiplierForRibbit": 1.0,
+		"damageMultiplierForRibbit": 1.0,
+		"speedMultiplierForRibbit": 1.0,
+		"scaleMultiplierForRibbit": 1.0
+	},
+	"vanillaBackport": {
+		// Happy Ghast
+		"healthMultiplierForHappyGhast": 1.0,
+		"damageMultiplierForHappyGhast": 1.0,
+		"speedMultiplierForHappyGhast": 1.0
+	},
+	"variantsAndVentures": {
+		// Gelid
+		"healthMultiplierForGelid": 2.0,
+		"damageMultiplierForGelid": 1.0,
+		"speedMultiplierForGelid": 2.0,
+		"scaleMultiplierForGelid": 1.0,
+		// Murk
+		"healthMultiplierForMurk": 1.0,
+		"damageMultiplierForMurk": 1.0,
+		"speedMultiplierForMurk": 2.0,
+		"scaleMultiplierForMurk": 1.0,
+		// Thicket
+		"healthMultiplierForThicket": 1.0,
+		"damageMultiplierForThicket": 1.0,
+		"speedMultiplierForThicket": 1.0,
+		"scaleMultiplierForThicket": 1.0,
+		// Verdant
+		"healthMultiplierForVerdant": 1.0,
+		"damageMultiplierForVerdant": 1.0,
+		"speedMultiplierForVerdant": 1.0,
+		"scaleMultiplierForVerdant": 1.0
+	},
+	"zombieVariants": {
+		// Badlands Zombie
+		"healthMultiplierForBadlandsZombie": 1.0,
+		"damageMultiplierForBadlandsZombie": 1.0,
+		"speedMultiplierForBadlandsZombie": 1.0,
+		"scaleMultiplierForBadlandsZombie": 1.0,
+		// Bamboo Zombie
+		"healthMultiplierForBambooZombie": 1.0,
+		"damageMultiplierForBambooZombie": 1.0,
+		"speedMultiplierForBambooZombie": 1.0,
+		"scaleMultiplierForBambooZombie": 1.0,
+		// Cave Zombie
+		"healthMultiplierForCaveZombie": 1.0,
+		"damageMultiplierForCaveZombie": 1.0,
+		"speedMultiplierForCaveZombie": 1.0,
+		"scaleMultiplierForCaveZombie": 1.0,
+		// Cherry Zombie
+		"healthMultiplierForCherryZombie": 1.0,
+		"damageMultiplierForCherryZombie": 1.0,
+		"speedMultiplierForCherryZombie": 1.0,
+		"scaleMultiplierForCherryZombie": 1.0,
+		// Deep Dark Zombie
+		"healthMultiplierForDeepDarkZombie": 1.0,
+		"damageMultiplierForDeepDarkZombie": 1.0,
+		"speedMultiplierForDeepDarkZombie": 1.0,
+		"scaleMultiplierForDeepDarkZombie": 1.0,
+		// Desert Zombie
+		"healthMultiplierForDesertZombie": 1.0,
+		"damageMultiplierForDesertZombie": 1.0,
+		"speedMultiplierForDesertZombie": 1.0,
+		"scaleMultiplierForDesertZombie": 1.0,
+		// Dripstone Zombie
+		"healthMultiplierForDripstoneZombie": 1.0,
+		"damageMultiplierForDripstoneZombie": 1.0,
+		"speedMultiplierForDripstoneZombie": 1.0,
+		"scaleMultiplierForDripstoneZombie": 1.0,
+		// Frozen Zombie
+		"healthMultiplierForFrozenZombie": 1.0,
+		"damageMultiplierForFrozenZombie": 1.0,
+		"speedMultiplierForFrozenZombie": 1.0,
+		"scaleMultiplierForFrozenZombie": 1.0,
+		// Jungle Zombie
+		"healthMultiplierForJungleZombie": 1.0,
+		"damageMultiplierForJungleZombie": 1.0,
+		"speedMultiplierForJungleZombie": 1.0,
+		"scaleMultiplierForJungleZombie": 1.0,
+		// Lush Zombie
+		"healthMultiplierForLushZombie": 1.0,
+		"damageMultiplierForLushZombie": 1.0,
+		"speedMultiplierForLushZombie": 1.0,
+		"scaleMultiplierForLushZombie": 1.0,
+		// Mangrove Zombie
+		"healthMultiplierForMangroveZombie": 1.0,
+		"damageMultiplierForMangroveZombie": 1.0,
+		"speedMultiplierForMangroveZombie": 1.0,
+		"scaleMultiplierForMangroveZombie": 1.0,
+		// Mushroom Zombie
+		"healthMultiplierForMushroomZombie": 1.0,
+		"damageMultiplierForMushroomZombie": 1.0,
+		"speedMultiplierForMushroomZombie": 1.0,
+		"scaleMultiplierForMushroomZombie": 1.0,
+		// Pale Garden Zombie
+		"healthMultiplierForPaleGardenZombie": 1.0,
+		"damageMultiplierForPaleGardenZombie": 1.0,
+		"speedMultiplierForPaleGardenZombie": 1.0,
+		"scaleMultiplierForPaleGardenZombie": 1.0,
+		// Savanna Zombie
+		"healthMultiplierForSavannaZombie": 1.0,
+		"damageMultiplierForSavannaZombie": 1.0,
+		"speedMultiplierForSavannaZombie": 1.0,
+		"scaleMultiplierForSavannaZombie": 1.0,
+		// Swamp Zombie
+		"healthMultiplierForSwampZombie": 1.0,
+		"damageMultiplierForSwampZombie": 1.0,
+		"speedMultiplierForSwampZombie": 1.0,
+		"scaleMultiplierForSwampZombie": 1.0
+	}
+}
