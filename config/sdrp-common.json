@@ -1,0 +1,26 @@
+{
+  "clientId": 608012526537408579,
+  "enabled": true,
+  "logState": false,
+  "buttons": [],
+  "enableUpdateDimensionPresence": true,
+  "invertWhitelist": false,
+  "dimensionsWhitelist": [
+    "minecraft:overworld",
+    "minecraft:the_nether",
+    "minecraft:the_end"
+  ],
+  "enableUpdateScreenPresence": true,
+  "screens": [
+    {
+      "screenClass": [
+        "net.minecraft.client.gui.screens.TitleScreen",
+        "net.minecraft.client.gui.screens.multiplayer.JoinMultiplayerScreen",
+        "net.minecraft.client.gui.screens.worldselection.SelectWorldScreen"
+      ],
+      "message": "sdrp.mainmenu",
+      "imageName": "sdrp.mainmenu",
+      "imageKey": "menu"
+    }
+  ]
+}
